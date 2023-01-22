@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697112740994",
+    "project_id": "chatapplication1-23b9d",
+    "storage_bucket": "chatapplication1-23b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697112740994:android:57f582bb036f87e64b609b",
+        "android_client_info": {
+          "package_name": "com.yuvesh.chatapplication10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697112740994-9mv5g7nnbmcnktb4cnp9ptqm1gkedv42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvRadoIocqNh4pr_J-GdBX7akAMoVYVbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697112740994-9mv5g7nnbmcnktb4cnp9ptqm1gkedv42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
